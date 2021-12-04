@@ -1,4 +1,4 @@
-FROM debian:stretch-slim
+FROM arm64v8/debian:stretch-slim
 
 LABEL authors="Julien Neuhart <j.neuhart@thecodingmachine.com>, David Négrier <d.negrier@thecodingmachine.com>"
 
